@@ -68,6 +68,6 @@ No additional software or dependencies are required.
 * LinkedIn: https://www.linkedin.com/in/soya-devassia-1b3938330/
 
 ## 📄 License
-This project is created for educational and personal portfolio purposes.
 
 This project is created for educational and personal portfolio purposes.
+
